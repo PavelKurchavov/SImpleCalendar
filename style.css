@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.td  {
+    border: 1px solid black;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-size: 24px;
+    margin: 0px;
+}
+
+.weekend {
+    color : red;
+}
+
+.calendar {
+    margin: 20px auto;
+}
+
+.container {
+    margin: 20px auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.currentDate {
+    background-color: #65c1f3;
+}
